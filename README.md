@@ -2,6 +2,6 @@
 # :raising_hand:I'm Karina-Zimerer and this is my Personal Repository.
 
 :computer:I'm  currently a full stack development student at StackX.
-Currently learning Python and The General Law of Data Protection.
+:exclamation:Currently learning Python and The General Law of Data Protection.
 :love_letter: Be in touch if you need!
-:camera:If you like art, visit my galleries.The link is in bio
+:camera:If you like art, visit my galleries.The link is in bio.
